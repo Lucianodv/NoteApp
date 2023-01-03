@@ -2,7 +2,7 @@
 
 NoteApp es una aplicacion de notas que permite guardar tus anotaciones que podran ser actualizadas, eliminadas y se podran filtrar por la el texto de las mismas.
 
-Kotlin, Room, RecyclerView
+Kotlin, Room, RecyclerView, MVVM
 
 <img width="242" alt="Captura de pantalla NoteApp" src="https://user-images.githubusercontent.com/96886646/210366252-474be13e-4df1-463b-8d06-1d4ad77aa6af.png">
 <img width="245" alt="captura note app2" src="https://user-images.githubusercontent.com/96886646/210366434-93f80a6c-da98-475e-be56-b4d3c6ef29b8.png">
